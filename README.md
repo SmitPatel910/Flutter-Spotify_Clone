@@ -13,6 +13,6 @@
 </div>
 
 ## Contributors:
+Samyak Vora<br />
 Parth Choksi<br />
-Smit Patel<br />
 Vraj Shah
